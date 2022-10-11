@@ -1,6 +1,9 @@
 # NaTrave-Codar.Me
 
-# World Cup 2022 - Catar - NaTrave: Faça sua aposta
+
+![NaTrave](https://user-images.githubusercontent.com/65515537/195133183-35fe99cb-4d4b-4752-94c6-153ad93bae33.gif)
+
+
 
 ``A stack utilizada: Vite, React, NPM, TailwindCSS, KOA, Planetscale (MySQL em Nuvem), ORM Prisma, e muitas outras bibliotecas, hospedado na Vercel``
 
